@@ -1,0 +1,4 @@
+{
+    "jwtSecret": "sl_myJwtSecret",
+    "mongoURI": "mongodb+srv://sadd:sadd@cluster0.gov8h.mongodb.net/blog?retryWrites=true&w=majority"
+}
